@@ -8,7 +8,7 @@
 🌱 Currently learning how to tackle any project as a designer, an engineer, and as a data scientist <br>
 👯 I’m a very hands-on collaborative colleague and would love to be in a role that requires me to wear multiple hats <br>
 
-🤝 I'm looking for an internship or New Grad role in any of the following : App Dev, Data Science / Analysis, Product Design, Product Management <br>
+🤝 I'm looking for an internship or New Grad role in any of the following : Full Stack, App Dev, Data Science / Analysis, Product Design, Product Management <br>
 
 ⚡ Fun Fact ! I love cooking, baking, recipe testing, painting and going on long walks! :) <br>
 
