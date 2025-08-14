@@ -3,14 +3,16 @@
 ## Hi, I'm Pushpal! 🌸
 
 👩🏻‍💻 M.S. Software Engineering student @ San Jose State University <br>
-📝 I'm working on becoming an expert in the cross-section of App Dev & ML/AI <br>
-🔭🤔 I'm highly interested in Product Design and love the intuitive and creative process of building a product <br>
+📝 I'm working on becoming an expert in the cross-section of App Dev x UX x ML/AI <br>
+🔭🤔 I'm highly interested in Product Design and love the intuitive and creative process of building <br>
 🌱 Currently learning how to tackle any project as a designer, an engineer, and as a data scientist <br>
 👯 I’m a very hands-on collaborative colleague and would love to be in a role that requires me to wear multiple hats <br>
 
-🤝 I'm looking for an internship or New Grad role in any of the following : Full Stack, App Dev, Data Science / Analysis, Product Design, Product Management <br>
+🤝 I'm looking for an Internship or New Grad role in any of the following : Full Stack, Product Engineering, Product Design, Design Engineer, Product Management <br>
 
-⚡ Fun Fact ! I love cooking, baking, recipe testing, painting and going on long walks! :) <br>
+⚡ P.S. I love cooking, baking, recipe testing, painting, going on long walks & anything that stimulates my creative and emotionally intelligent side :) <br>
+
+If you have any feedback on any of my projects, [let me know](https://pushpal-rho.vercel.app/contact)! <br>
 
 
 ## 🌐 Socials:
