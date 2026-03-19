@@ -8,7 +8,7 @@
 🌱 Currently learning how to tackle any project as a designer and a product engineer <br>
 👯 I’m a very hands-on collaborative colleague and would love to be in a role that requires me to wear multiple hats <br>
 
-🤝 I'm looking for an Internship or New Grad role in any of the following : Full Stack, Product Engineering, Product Design, Design Engineer, Product Management <br>
+🤝 I'm looking for roles in any of the following : , Forward Deployed Engineer, Full Stack, Product Engineering, Product Design, Design Engineer, Product Management <br>
 
 ⚡ P.S. I love cooking, baking, recipe testing, painting, going on long walks & anything that stimulates my creative and emotionally intelligent side :) <br>
 
